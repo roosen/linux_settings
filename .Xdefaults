@@ -1,0 +1,13 @@
+urxvt*termName:rxvt-256color
+urxvt*depth: 32
+urxvt*background: black
+urxvt*foreground: white
+urxvt*scrollBar: false
+! font
+urxvt*font: -*-terminus-medium-*-normal--12-*-*-*-*-*-iso10646-1
+!urxvt*font: -*-terminus-medium-*-normal-*-12-*-*-*-*-*-iso8859-15
+urxvt*boldFont: -*-terminus-bold-*-normal--12-*-*-*-*-*-iso10646-1
+!urxvt*font: xft:Terminus:pixelsize=12:antialias=true
+!urxvt*boldFont: xft:Terminus:bold:pixelsize=12
+!urxvt*italicFont: xft:Bitstream Vera Sans Mono:italic:pixelsize=12
+!urxvt*boldItalicFont: xft:Bitstream Vera Sans Mono:bold:italic::pixelsize=12
